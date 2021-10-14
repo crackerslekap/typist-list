@@ -43,11 +43,11 @@ h1 {
 
 p {
     cursor: grab;
-    font-size: 16px;
+    font-size: 14px;
     padding: 10px;
     display: inline-block;
     margin: 5px;
     border: solid;
     width: auto;
-    margin: 3px;
+    margin: 2px;
 }
